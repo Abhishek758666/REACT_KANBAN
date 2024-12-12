@@ -4,9 +4,9 @@ export const initialTasks: TaskType[] = [
   
 ];
 export const InitialColumn: ColumnType[] = [
-  { title: "todo", emoji: "📝", color: "#457B9D" },
-  { title: "progress", emoji: "⌛", color: "#E9C46A" },
-  { title: "completed", emoji: "✅", color: "#2A9D8F" },
+  { title: "todo", emoji: "📝", color: "#4F46E5" },
+  { title: "progress", emoji: "⌛", color: "#FACC15" },
+  { title: "completed", emoji: "✅", color: "#10B981" },
 ];
 
 export const emojiRegex =
